@@ -1,6 +1,6 @@
 
 <h1 align=center> Hi my name is Michael Chavez </h1>
-## I am currently a freshman at George Mason University Majoring in IT (Cybersecurity)
+<h2 align=center> I am currently a freshman at George Mason University Majoring in IT (Cybersecurity) </h2>
 ### -I am currently working on a few personal projects on the side
 
   -MassEmail.py is a WIP and provides a framework for sending automated emails with attachments   

@@ -1,5 +1,5 @@
 <p align=center>
-  <h1> Hi my name is Michael Chavez <h1 \>
+  <h1> Hi my name is Michael Chavez <h1\>
 ## I am currently a freshman at George Mason University Majoring in IT (Cybersecurity)
 ### -I am currently working on a few personal projects on the side
 <p\>

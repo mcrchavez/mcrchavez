@@ -1,6 +1,8 @@
+<p align=center>
 # Hi my name is Michael Chavez  
 ## I am currently a freshman at George Mason University Majoring in IT (Cybersecurity)
 ### -I am currently working on a few personal projects on the side
+<p\>
 
   -MassEmail.py is a WIP and provides a framework for sending automated emails with attachments   
   -NetScanner.java is a WIP with the intent of implementing Nmap like functions with a gui  

@@ -1,6 +1,6 @@
 
 <h1 align=center> My Name is Michael Chavez </h1>
-<h2 align=center> I am currently a freshman at George Mason University Majoring in IT(Cybersecurity)</h2>
+<h2 align=center> I am currently a sophmore at George Mason University Majoring in IT(concentrating in Cybersecurity)</h2>
 
 
  
